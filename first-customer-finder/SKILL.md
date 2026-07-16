@@ -64,7 +64,7 @@ Never claim that a prospect is interested, has consented, or will buy. Label the
 - Verify a concrete official/public contact route: relevant public thread, published business contact page, or public professional profile. Record its URL and why it is suitable. A visible route is not permission to promote there; inspect relevant community rules. If no appropriate route is found, say so and give a manual research next step, not a guessed address.
 - Write one short opener in the buyer's problem language with a specific, low-friction CTA that can be accepted, declined, or forwarded. Offer a realistic next step such as a workflow review, checklist, or demo. Do not claim an asset, integration, customer result, or capability already exists unless verified.
 - Avoid pretending to know the person, overstating familiarity, or mentioning unrelated personal details.
-- Do not send messages, submit forms, connect, follow, comment, or create CRM records unless the user separately requests and authorizes that action.
+
 
 ### 6. Produce the report and save the next search's context
 

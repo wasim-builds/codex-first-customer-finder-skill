@@ -69,6 +69,7 @@ This example is fictional. Never reuse its identities or evidence in real resear
       "cta": "Should I send a two-minute walkthrough?",
       "opener": "You mentioned manual membership follow-ups. We are testing a reminder workflow for small gyms. Should I send a two-minute walkthrough?",
       "caution": "Fictional example. In a real run verify that the problem is still unresolved.",
+
       "dimensions": {
         "pain_strength": 5,
         "product_fit": 5,
