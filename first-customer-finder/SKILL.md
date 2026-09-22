@@ -63,8 +63,9 @@ Never claim that a prospect is interested, has consented, or will buy. Label the
 - Identify the target role/function and label it observed or inferred. Do not invent a named decision-maker.
 - Verify a concrete official/public contact route: relevant public thread, published business contact page, or public professional profile. Record its URL and why it is suitable. A visible route is not permission to promote there; inspect relevant community rules. If no appropriate route is found, say so and give a manual research next step, not a guessed address.
 - Write one short opener in the buyer's problem language with a specific, low-friction CTA that can be accepted, declined, or forwarded. Offer a realistic next step such as a workflow review, checklist, or demo. Do not claim an asset, integration, customer result, or capability already exists unless verified.
-- Avoid private enrichment. Do not perform any outreach actions (e.g., sending messages, submitting forms, connecting, following, commenting, or creating CRM records).
+- Avoid private enrichment. Do not perform outreach actions (sending messages, submitting forms, connecting/following/commenting, creating CRM records). The skill should only draft outreach and recommend routes.
 - Avoid pretending to know the person, overstating familiarity, or mentioning unrelated personal details.
+
 
 
 
